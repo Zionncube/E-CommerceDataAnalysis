@@ -61,12 +61,12 @@ Work Log & Hours Breakdown
 | Day        | Hours | Tasks Completed                                                                 |
 |------------|-------|--------------------------------------------------------------------------------|
 | Monday     | 2     | Researched datasets, set up project folder, installed Python and libraries      |
-| Tuesday    | 2     | Downloaded and inspected dataset, planned analysis questions                    |
+| Tuesday    | 5     | Downloaded and inspected dataset, planned analysis questions                    |
 | Wednesday  | 4     | Wrote code to load and clean data, checked column names, initial data prep      |
-| Thursday   | 2     | Implemented aggregation, sorting, and time-based queries in analysis.py         |
+| Thursday   | 4     | Implemented aggregation, sorting, and time-based queries in analysis.py         |
 | Friday     | 3     | Created and refined visualizations, tested code, fixed bugs                     |
 | Saturday   | 2     | Drafted and polished README.md, summarized findings, final testing and review   |
-| Total hrs | 15                                                                                 
+| Total hrs | 20                                                                                 
 
 This schedule reflects a typical week of focused work, totaling 15 hours. Each day was dedicated to a specific aspect of the project, from setup and data exploration to analysis, visualization, and documentation.
 
