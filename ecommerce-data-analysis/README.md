@@ -70,6 +70,7 @@ Work Log & Hours Breakdown
 
 This schedule reflects a typical week of focused work, totaling 15 hours. Each day was dedicated to a specific aspect of the project, from setup and data exploration to analysis, visualization, and documentation.
 
+
 Learning Strategies Reflection
 
 What worked well:
@@ -87,7 +88,6 @@ What did not work well:
 - Spend more time up front understanding the dataset and requirements.
 - Ask for help or clarification sooner when encountering obstacles.
 - Continue to use a structured schedule and break tasks into manageable pieces.
-
 
  Visualization
 A bar chart was created to visualize total revenue by product category.
